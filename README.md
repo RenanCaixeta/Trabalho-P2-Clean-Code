@@ -12,3 +12,5 @@ Dentro da pasta estacionamento, abra o cmd, e rode o comando "composer install"
 2. Clique em "Start" na linha do Apache.
 3. Abra o navegador e acesse:
    http://localhost/estacionamento/public/
+
+Usamos LicensePlate em vez de texto comum, para garantir que nunca existirá uma placa inválida ou minúscula passeando pelo sistema.
